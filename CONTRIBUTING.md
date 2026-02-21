@@ -1,6 +1,6 @@
----
+---Achon Chon---
 layout: default
----
+---Want to teach bad STUPID HUMEN around me---
 
 # Contributing to Open Source Guides
 
